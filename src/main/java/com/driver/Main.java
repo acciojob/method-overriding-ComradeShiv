@@ -21,5 +21,6 @@ public class Main {
 
         B o1 = new B();
         System.out.println(o1.meth());
+
     }
 }
